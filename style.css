@@ -2,12 +2,20 @@
 /* CSS Document */
 
 * {
-	font-family: "Courier New", monospace;
+	font-family: "Andale Mono", monospace;
 	color: #fff0b3;
 }
 
 body {
 	background-color: #262626;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
 }
 
 /* The side navigation menu */
