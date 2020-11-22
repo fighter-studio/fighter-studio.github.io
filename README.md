@@ -22,6 +22,7 @@ film
 game
 image
 literature
+[material]
 music
 object
 other
@@ -32,4 +33,5 @@ reference entry
 television
 text
 theatre production
+[tool]
 video
