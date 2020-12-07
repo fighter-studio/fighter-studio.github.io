@@ -10,8 +10,8 @@ title / link. media type. date. creator. access.
 
 categories:
 
-art work
-article
+[art work]
+[article]
 audio
 book
 collection
@@ -19,7 +19,7 @@ comic
 exhibition
 experience
 film
-game
+[game]
 image
 literature
 [material]
@@ -27,11 +27,11 @@ music
 object
 other
 performance
-photograph
+[photograph]
 project
-reference entry
+[reference entry]
 television
 text
-theatre production
+[theatre production]
 [tool]
 video
