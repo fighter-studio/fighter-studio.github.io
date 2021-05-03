@@ -9,12 +9,11 @@
 <!--  -->
 
 
-title / link. media type. date. creator. access.
+title / link. media type. date. creator. access. [related.]
 
 
 categories:
 
-[art work]
 [article]
 audio
 book
@@ -31,11 +30,9 @@ music
 object
 other
 performance
-[photograph]
 project
-[reference entry]
+[reference]
 television
 text
-[theatre production]
 [tool]
 video
