@@ -49,16 +49,38 @@ h4.dbl-underline {
   text-decoration: none;
 }
 
-/* Active/current link */
+/* Dropdown contents */
+.drop a {
+  display: block;
+  color: #ffeb99;
+  padding: 8px 8px 8px 16px;
+  text-decoration: none;
+}
+
+/* Sidebar active/current link */
 .sidebar a.active {
   background-color: #b38f00;
   color: white;
 }
 
-/* Links on mouse-over */
-.sidebar a:hover:not(.active) {
+/* Dropdown active/current link */
+.drop a.active {
+  background-color: #262626;
+  text-decoration: underline;
+  color: #ffeb99;
+}
+
+/* Sidebar links on mouse-over */
+.sidebar a:hover:not(.active), .drop a:hover:not(.active) {
   background-color: #333333;
   color: #fff5cc;
+}
+
+/* Dropdown links on mouse-over */
+.drop a:hover:not(.active) {
+  background-color: #262626;
+  text-decoration: underline;
+  color: #ffeb99;
 }
 
 /* Sidebar text */
