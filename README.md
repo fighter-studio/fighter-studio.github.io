@@ -1,12 +1,11 @@
 # fighter
 
 
+<!-- PROJECT 1 -->
 
 <p> <a href="" target="_blank"> </a> </p>
 
 <img src="vectors/.svg" height="20" /> 
-
-<!--  -->
 
 
 title / link. media type. date. creator. access. [related.]
@@ -36,3 +35,47 @@ television
 text
 [tool]
 video
+
+
+<!-- PROJECT 2 -->
+
+TITLE/link. volume. date. creator. publisher. access.
+
+full
+most
+some
+spar
+yet
+
+impt
+int
+rel
+null
+
+text
+article
+literature
+book
+object
+image
+comic
+television
+film
+video
+audio
+music
+performance
+game
+experience
+exhibition
+collection
+project
+other
+
+
+
+
+
+
+
+
