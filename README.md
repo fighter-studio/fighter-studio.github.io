@@ -54,7 +54,6 @@ null
 
 text
 article
-literature
 book
 object
 image

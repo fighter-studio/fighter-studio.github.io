@@ -5,23 +5,23 @@
 <vectornator:setting key="PencilOnly" value="0"/>
 <vectornator:setting key="SnapToPoints" value="0"/>
 <vectornator:setting key="GuidesVisible" value="1"/>
-<vectornator:setting key="RulersVisible" value="1"/>
-<vectornator:setting key="OutlineMode" value="0"/>
-<vectornator:setting key="SnapToEdges" value="0"/>
 <vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="OutlineMode" value="0"/>
 <vectornator:setting key="DisplayWhiteBackground" value="0"/>
 <vectornator:setting key="doHistoryDisabled" value="0"/>
 <vectornator:setting key="TimeLapseWatermarkDisabled" value="0"/>
 <vectornator:setting key="SnapToGuides" value="0"/>
 <vectornator:setting key="DynamicGuides" value="1"/>
-<vectornator:setting key="IsolateActiveLayer" value="0"/>
-<vectornator:setting key="Units" value="Pixels"/>
 <vectornator:setting key="SnapToGrid" value="0"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="IsolateActiveLayer" value="0"/>
 </metadata>
 <defs>
 <linearGradient y1="316.685" id="LinearGradient" x1="167.293" y2="316.685" x2="493.22" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3.06817 0 0 2.70758 -513.283 -357.451)">
 <stop stop-color="#000000" offset="0"/>
-<stop stop-color="#4d2600" offset="0"/>
+<stop stop-color="#800000" offset="0"/>
 </linearGradient>
 <linearGradient y1="10" id="LinearGradient_2" x1="0" y2="10" x2="50" gradientUnits="userSpaceOnUse" gradientTransform="matrix(4 0 0 4 0 3.5056e-05)">
 <stop stop-color="#000000" offset="0"/>
